@@ -7,24 +7,28 @@
 
 # 文本材料
 
-- [SparkNotes](http://www.sparknotes.com/) 有趣的英语短文
-- [Atlantic](https://www.theatlantic.com/world/) 英语新闻阅读
+- [**SparkNotes**](http://www.sparknotes.com/) 有趣的英语短文
+- [**Atlantic**](https://www.theatlantic.com/world/) 英语新闻阅读
 - [**经济学人**](https://www.economist.com) 注册后每周可以阅读三篇高质量的英语文章
 - [**X Company**](https://x.company/) Google旗下的科技资讯网站
 - [**FeedLy**](https://feedly.com/) 英语文本聚合，可根据喜好订阅文章（比如科技类文章、商务类文章）
+
+# 听力材料
+
+- [**TED**](https://www.ted.com/) 全英演讲
+- [**BBC Learning English**](http://www.bbc.co.uk/learningenglish/) 6分钟短小精悍的听力材料
+- [**Ello**](http://www.elllo.org) （阻挡）英语日常对话听力材料
+- [**Audible有声书**](http://www.audible.com/) （付费）高质量的英语有声书籍
 
 # 社区
 
 - [**Quora**](https://www.quora.com/) 英文版知乎
 
-# 听力素材
-
-- [**TED**](https://www.ted.com/) 全英演讲
-- [**http://www.bbc.co.uk/learningenglish/**] 6分钟短小精悍的听力材料
-- [**Ello**](http://www.elllo.org) （阻挡）英语日常对话听力材料
-- [**Audible有声书**](http://www.audible.com/) （付费）高质量的英语有声书籍
-
 # 结论
+
+遇到生词可以在**Vocabulary.com**上查询。
+
+需要文本材料和听力材料的话不妨参考上面的链接，可以利用社区实战性地锻炼英语水平。
 
 # 参考资料
 
