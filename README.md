@@ -16,7 +16,7 @@
 # 听力材料
 
 - [**TED**](https://www.ted.com/) 全英演讲
-- [**BBC Learning English**](http://www.bbc.co.uk/learningenglish/) 6分钟短小精悍的听力材料
+- [**BBC Learning English**](http://www.bbc.co.uk/learningenglish/) BBC英语学习的专题，其中6分钟英语和母语英语栏目很不错。提供文字稿件和音频下载。
 - [**Ello**](http://www.elllo.org) （阻挡）英语日常对话听力材料
 - [**Audible有声书**](http://www.audible.com/) （付费）高质量的英语有声书籍
 
