@@ -9,6 +9,7 @@
 
 - [**SparkNotes**](http://www.sparknotes.com/) 有趣的英语短文
 - [**Atlantic**](https://www.theatlantic.com/world/) 英语新闻阅读
+- [**Slashdot**](https://slashdot.org/) 黑客网站
 - [**经济学人**](https://www.economist.com) 注册后每周可以阅读三篇高质量的英语文章
 - [**X Company**](https://x.company/) Google旗下的科技资讯网站
 - [**FeedLy**](https://feedly.com/) 英语文本聚合，可根据喜好订阅文章（比如科技类文章、商务类文章）
