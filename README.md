@@ -16,8 +16,8 @@
 - [**赫芬顿邮报**](https://www.huffingtonpost.com/)
 - [**路透社**](http://www.reuters.com/)
 - [**SparkNotes**](http://www.sparknotes.com/) 美国著名的文学网，文学指南学习资料，包括作家简介，作品介绍，写作特色，人物分析，关键问题解析等等
-- [**Atlantic**](https://www.theatlantic.com/world/) 长历史的杂志站点
-- [**经济学人**](https://www.economist.com) 注册后每周可以阅读三篇高质量的英语文章
+- [**Atlantic**](https://www.theatlantic.com/world/) 历史悠久的杂志站点
+- [**经济学人**](https://www.economist.com) 注册后每周可以阅读三篇高质量的经济文章
 
 ## 科技
 
@@ -31,7 +31,7 @@
 
 # 听力材料
 
-- [**National Public Radio**] 美国非盈利广播公司 
+- [**National Public Radio**](http://www.npr.org/) 美国非盈利广播公司 
 - [**BBC Learning English**](http://www.bbc.co.uk/learningenglish/) BBC英语学习的专题，其中6分钟英语和母语英语栏目很不错。提供文字稿件和音频下载。
 - [**CNN Students News**](http://edition.cnn.com/cnn10) 以英文新闻为学习题材的免费英文听力网站
 - [**StoryCorps**](https://storycorps.org/) 听别人的生活故事
